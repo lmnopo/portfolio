@@ -1,0 +1,31 @@
+
+p {
+    color: black
+}
+
+.xyz {
+    font-size: 78px;
+}
+
+#top_text {
+    font-weight: 900
+}
+
+.new-color {
+    background-color: black
+}
+
+
+.card-header-padding {
+    padding-left:0;
+    padding-right:0;
+}
+
+body {
+    background-color: rgba(228, 228, 228, 0.911)
+}
+
+.card {
+    
+}
+
